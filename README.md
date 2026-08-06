@@ -75,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0654-maximum-binary-tree) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
