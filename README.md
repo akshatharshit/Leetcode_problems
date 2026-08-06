@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/akshatharshit/Leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0998-maximum-binary-tree-ii) |
 ## Depth-First Search
 |  |
@@ -46,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/akshatharshit/Leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0998-maximum-binary-tree-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/akshatharshit/Leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
