@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshatharshit/Leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/akshatharshit/Leetcode_problems/tree/master/0173-binary-search-tree-iterator) |
 | [0654-maximum-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0654-maximum-binary-tree) |
 ## Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0098-validate-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshatharshit/Leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/akshatharshit/Leetcode_problems/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshatharshit/Leetcode_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akshatharshit/Leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0654-maximum-binary-tree) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0098-validate-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshatharshit/Leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/akshatharshit/Leetcode_problems/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshatharshit/Leetcode_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akshatharshit/Leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0654-maximum-binary-tree) |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/akshatharshit/Leetcode_problems/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshatharshit/Leetcode_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/akshatharshit/Leetcode_problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -83,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/akshatharshit/Leetcode_problems/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/akshatharshit/Leetcode_problems/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
