@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0606-construct-string-from-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0606-construct-string-from-binary-tree) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshatharshit/Leetcode_problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2211-count-collisions-on-a-road](https://github.com/akshatharshit/Leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
 ## Counting
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/akshatharshit/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshatharshit/Leetcode_problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2211-count-collisions-on-a-road](https://github.com/akshatharshit/Leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
 ## Tree
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/akshatharshit/Leetcode_problems/tree/master/0735-asteroid-collision) |
+| [2211-count-collisions-on-a-road](https://github.com/akshatharshit/Leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
 ## Greedy
 |  |
 | ------- |
