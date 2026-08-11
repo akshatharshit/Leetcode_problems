@@ -1,13 +1,13 @@
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
         Stack<Integer> st=new Stack<>();
-        for(int i : asteroids){
+        for(int i: asteroids){
             boolean add=true;
             while(!st.isEmpty() && i<0 && st.peek()>=0){
-                if(st.peek()>-i){
-                     add=false;
-                }else if(st.peek()<-i){
+                if(st.peek()<-i){
                     st.pop();
+                }else if(st.peek()>-i){
+                    add=false;
                 }else{
                     st.pop();
                     add=false;
