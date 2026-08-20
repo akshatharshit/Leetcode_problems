@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-merge-bsts-to-create-single-bst](https://github.com/akshatharshit/Leetcode_problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2104-sum-of-subarray-ranges](https://github.com/akshatharshit/Leetcode_problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/akshatharshit/Leetcode_problems/tree/master/2126-destroying-asteroids) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/akshatharshit/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [2211-count-collisions-on-a-road](https://github.com/akshatharshit/Leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
 | ------- |
