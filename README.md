@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/akshatharshit/Leetcode_problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/akshatharshit/Leetcode_problems/tree/master/2126-destroying-asteroids) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3693-climbing-stairs-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0337-house-robber-iii) |
 | [0968-binary-tree-cameras](https://github.com/akshatharshit/Leetcode_problems/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3693-climbing-stairs-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/3693-climbing-stairs-ii) |
 ## DP on Trees
 |  |
 | ------- |
