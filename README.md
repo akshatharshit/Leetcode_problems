@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshatharshit/Leetcode_problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/akshatharshit/Leetcode_problems/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akshatharshit/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -34,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshatharshit/Leetcode_problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1927-sum-game](https://github.com/akshatharshit/Leetcode_problems/tree/master/1927-sum-game) |
 | [2211-count-collisions-on-a-road](https://github.com/akshatharshit/Leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akshatharshit/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshatharshit/Leetcode_problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akshatharshit/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akshatharshit/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Design
 |  |
 | ------- |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/akshatharshit/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [1927-sum-game](https://github.com/akshatharshit/Leetcode_problems/tree/master/1927-sum-game) |
 | [2126-destroying-asteroids](https://github.com/akshatharshit/Leetcode_problems/tree/master/2126-destroying-asteroids) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akshatharshit/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
