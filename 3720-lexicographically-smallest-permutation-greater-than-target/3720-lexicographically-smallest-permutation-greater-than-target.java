@@ -1,48 +1,44 @@
 class Solution {
-    String result = "";
-
-    boolean solve(StringBuilder curr, int[] count, String target, int i, boolean greater) {
-        if (i == target.length()) {
-            if (greater) {
-                result = curr.toString();
-                return true;
-            }
-            return false;
+    public String lexGreaterPermutation(String s, String tar) {
+        int n=s.length();
+        int[] f=new int[26];
+        for(char c:s.toCharArray()){
+            f[c-'a']++;
         }
-
-        for (char ch = 'a'; ch <= 'z'; ch++) {
-            if (count[ch - 'a'] == 0)
-                continue;
-
-            if (greater == false && ch < target.charAt(i))
-                continue;
-
-            curr.append(ch);
-            count[ch - 'a']--;
-
-            boolean isGreater = greater || ch > target.charAt(i);
-
-            if (solve(curr, count, target, i + 1, isGreater)) {
-                return true;
+        for(int i=n-1;i>=0;i--){
+            int rem[]=f.clone();
+            boolean pos=true;
+            for(int k=0;k<i;k++){
+                int idx=tar.charAt(k)-'a';
+                if(rem[idx]==0){
+                    pos=false;
+                    break;
+                }
+                rem[idx]--;
             }
-
-            curr.deleteCharAt(curr.length() - 1);
-            count[ch - 'a']++;
+            if(!pos)continue;
+            int t=tar.charAt(i)-'a';
+            for(int j=t+1;j<26;j++){
+                if(rem[j]>0){
+                    StringBuilder ans=new StringBuilder();
+                    ans.append(tar.substring(0,i));
+                    ans.append((char)('a'+j));
+                    rem[j]--;
+                    for(int k=0;k<26;k++){
+                        while(rem[k]>0){
+                            ans.append((char)('a'+k));
+                            rem[k]--;
+                        }
+                    }
+                    return ans.toString();
+                }
+            }
+            // if(rem[t]>0){
+            //     rem[t]--;
+            // }else{
+            //     break;
+            // }
         }
-
-        return false;
-    }
-
-    public String lexGreaterPermutation(String s, String target) {
-        int[] count = new int[26];
-
-        for (char ch : s.toCharArray())
-            count[ch - 'a']++;
-
-        StringBuilder curr = new StringBuilder();
-
-        solve(curr, count, target, 0, false);
-
-        return result;
+        return "";
     }
 }
