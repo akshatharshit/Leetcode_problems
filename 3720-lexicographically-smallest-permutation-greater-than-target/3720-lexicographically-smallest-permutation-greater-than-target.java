@@ -1,44 +1,38 @@
 class Solution {
     public String lexGreaterPermutation(String s, String tar) {
         int n=s.length();
-        int[] f=new int[26];
-        for(char c:s.toCharArray()){
-            f[c-'a']++;
+        int f[]=new int[26];
+        for(char ch: s.toCharArray()){
+            f[ch-'a']++;
         }
         for(int i=n-1;i>=0;i--){
-            int rem[]=f.clone();
-            boolean pos=true;
-            for(int k=0;k<i;k++){
-                int idx=tar.charAt(k)-'a';
-                if(rem[idx]==0){
-                    pos=false;
+            boolean p=true;
+            int r[]=f.clone();
+            for(int j=0;j<i;j++){
+                if(r[tar.charAt(j)-'a']==0){
+                    p=false;
                     break;
                 }
-                rem[idx]--;
+                r[tar.charAt(j)-'a']--;
             }
-            if(!pos)continue;
+            if(!p)continue;
             int t=tar.charAt(i)-'a';
             for(int j=t+1;j<26;j++){
-                if(rem[j]>0){
-                    StringBuilder ans=new StringBuilder();
-                    ans.append(tar.substring(0,i));
-                    ans.append((char)('a'+j));
-                    rem[j]--;
+                if(r[j]>0){
+                    StringBuilder sb=new StringBuilder();
+                    sb.append(tar.substring(0,i));
+                    sb.append((char)('a'+j));
+                    r[j]--;
                     for(int k=0;k<26;k++){
-                        while(rem[k]>0){
-                            ans.append((char)('a'+k));
-                            rem[k]--;
+                        while(r[k]>0){
+                            sb.append((char)('a'+k));
+                            r[k]--;
                         }
                     }
-                    return ans.toString();
+                    return sb.toString();
                 }
             }
-            // if(rem[t]>0){
-            //     rem[t]--;
-            // }else{
-            //     break;
-            // }
         }
-        return "";
+       return "";
     }
 }
