@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshatharshit/Leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1927-sum-game](https://github.com/akshatharshit/Leetcode_problems/tree/master/1927-sum-game) |
 | [2928-distribute-candies-among-children-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/2928-distribute-candies-among-children-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2928-distribute-candies-among-children-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/2928-distribute-candies-among-children-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshatharshit/Leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
