@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/akshatharshit/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0496-next-greater-element-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/akshatharshit/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0496-next-greater-element-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/akshatharshit/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshatharshit/Leetcode_problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
