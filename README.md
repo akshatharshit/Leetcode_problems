@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/akshatharshit/Leetcode_problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/akshatharshit/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0496-next-greater-element-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/akshatharshit/Leetcode_problems/tree/master/0771-jewels-and-stones) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/akshatharshit/Leetcode_problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0402-remove-k-digits](https://github.com/akshatharshit/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0606-construct-string-from-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0771-jewels-and-stones](https://github.com/akshatharshit/Leetcode_problems/tree/master/0771-jewels-and-stones) |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshatharshit/Leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/akshatharshit/Leetcode_problems/tree/master/2351-first-letter-to-appear-twice) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/akshatharshit/Leetcode_problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
