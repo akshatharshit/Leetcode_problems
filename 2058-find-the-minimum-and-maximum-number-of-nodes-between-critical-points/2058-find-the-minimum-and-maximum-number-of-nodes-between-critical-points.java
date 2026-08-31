@@ -14,23 +14,30 @@ class Solution {
         ListNode cur=head.next;
         ListNode p=head;
         int c=1;
+        int min=-1;
+        int v1=-1;
+        int v2=-1;
+        boolean f=true;
+        int cr=0;
         while(cur!=null && cur.next!=null){
-            if(cur.val>p.val && cur.val>cur.next.val){
-                ans.add(c);
-            }
-            if(cur.val<p.val && cur.val<cur.next.val){
-                ans.add(c);
+            if((cur.val>p.val && cur.val>cur.next.val) || (cur.val<p.val && cur.val<cur.next.val)){
+                cr++;
+                if(v1==-1){
+                    v1=c;
+                }
+                if(v2!=-1){
+                    int d=c-v2;
+                    if(min==-1 || d<min){
+                        min=d;
+                    }
+                }
+                v2=c;
             }
             p=cur;
             cur=cur.next;
             c++;
         }
-        if(ans.size()<2)return new int[]{-1,-1};
-        int min=Integer.MAX_VALUE;
-        int max=ans.get(ans.size()-1)-ans.get(0);
-        for(int i=1;i<ans.size();i++){
-            min=Math.min(min,ans.get(i)-ans.get(i-1));
-        }
-        return new int[]{min,max};
+        if(cr<2)return new int[]{-1,-1};
+        return new int[]{min,v2-v1};
     }
 }
