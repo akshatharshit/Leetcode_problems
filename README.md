@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/akshatharshit/Leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0213-house-robber-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0496-next-greater-element-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0654-maximum-binary-tree) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/akshatharshit/Leetcode_problems/tree/master/0070-climbing-stairs) |
+| [0213-house-robber-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0337-house-robber-iii) |
 | [0968-binary-tree-cameras](https://github.com/akshatharshit/Leetcode_problems/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
