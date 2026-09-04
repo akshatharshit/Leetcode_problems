@@ -1,0 +1,21 @@
+class Solution {
+    public int firstStableIndex(int[] nums, int k) {
+        int n=nums.length;
+        // if(n==1 && nums[0]<=k)return nums[0];
+        // else if(n==1) return -1;
+        int p[]=new int[n];
+        int s[]=new int[n];
+        p[0]=nums[0];
+        for(int i=1;i<n;i++)p[i]=Math.max(p[i-1],nums[i]);
+        s[n-1]=nums[n-1];
+        for(int i=n-2;i>=0;i--)s[i]=Math.min(s[i+1],nums[i]);
+        int ans=-1;
+        for(int i=0;i<n;i++){
+            if(p[i]-s[i]<=k){
+                ans=i;
+                break;
+            }
+        }
+        return ans;
+    }
+}
