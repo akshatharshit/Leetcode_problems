@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/akshatharshit/Leetcode_problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0115-distinct-subsequences](https://github.com/akshatharshit/Leetcode_problems/tree/master/0115-distinct-subsequences) |
 | [0402-remove-k-digits](https://github.com/akshatharshit/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0606-construct-string-from-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0771-jewels-and-stones](https://github.com/akshatharshit/Leetcode_problems/tree/master/0771-jewels-and-stones) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/akshatharshit/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/akshatharshit/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/akshatharshit/Leetcode_problems/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/akshatharshit/Leetcode_problems/tree/master/0115-distinct-subsequences) |
 | [0213-house-robber-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0337-house-robber-iii) |
 | [0403-frog-jump](https://github.com/akshatharshit/Leetcode_problems/tree/master/0403-frog-jump) |
