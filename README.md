@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0654-maximum-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/akshatharshit/Leetcode_problems/tree/master/0968-binary-tree-cameras) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0337-house-robber-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0606-construct-string-from-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/akshatharshit/Leetcode_problems/tree/master/0968-binary-tree-cameras) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/akshatharshit/Leetcode_problems/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0654-maximum-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/akshatharshit/Leetcode_problems/tree/master/0968-binary-tree-cameras) |
@@ -291,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/3904-smallest-stable-index-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
