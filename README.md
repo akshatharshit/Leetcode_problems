@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/akshatharshit/Leetcode_problems/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshatharshit/Leetcode_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/akshatharshit/Leetcode_problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3693-climbing-stairs-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/3693-climbing-stairs-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshatharshit/Leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/akshatharshit/Leetcode_problems/tree/master/2351-first-letter-to-appear-twice) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/akshatharshit/Leetcode_problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sliding Window
 |  |
 | ------- |
