@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/akshatharshit/Leetcode_problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/akshatharshit/Leetcode_problems/tree/master/2126-destroying-asteroids) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/akshatharshit/Leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2942-find-words-containing-character](https://github.com/akshatharshit/Leetcode_problems/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshatharshit/Leetcode_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3693-climbing-stairs-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/3693-climbing-stairs-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/akshatharshit/Leetcode_problems/tree/master/1927-sum-game) |
 | [2211-count-collisions-on-a-road](https://github.com/akshatharshit/Leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
 | [2351-first-letter-to-appear-twice](https://github.com/akshatharshit/Leetcode_problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2942-find-words-containing-character](https://github.com/akshatharshit/Leetcode_problems/tree/master/2942-find-words-containing-character) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akshatharshit/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/akshatharshit/Leetcode_problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Counting
