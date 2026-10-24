@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/akshatharshit/Leetcode_problems/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/akshatharshit/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/akshatharshit/Leetcode_problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/akshatharshit/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akshatharshit/Leetcode_problems/tree/master/0070-climbing-stairs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshatharshit/Leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/akshatharshit/Leetcode_problems/tree/master/1360-number-of-days-between-two-dates) |
 | [1927-sum-game](https://github.com/akshatharshit/Leetcode_problems/tree/master/1927-sum-game) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/akshatharshit/Leetcode_problems/tree/master/2126-destroying-asteroids) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshatharshit/Leetcode_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
