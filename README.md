@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0771-jewels-and-stones](https://github.com/akshatharshit/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/akshatharshit/Leetcode_problems/tree/master/0856-score-of-parentheses) |
+| [1360-number-of-days-between-two-dates](https://github.com/akshatharshit/Leetcode_problems/tree/master/1360-number-of-days-between-two-dates) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshatharshit/Leetcode_problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1927-sum-game](https://github.com/akshatharshit/Leetcode_problems/tree/master/1927-sum-game) |
 | [2211-count-collisions-on-a-road](https://github.com/akshatharshit/Leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/akshatharshit/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akshatharshit/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshatharshit/Leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1360-number-of-days-between-two-dates](https://github.com/akshatharshit/Leetcode_problems/tree/master/1360-number-of-days-between-two-dates) |
 | [1927-sum-game](https://github.com/akshatharshit/Leetcode_problems/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/akshatharshit/Leetcode_problems/tree/master/2409-count-days-spent-together) |
 | [2928-distribute-candies-among-children-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/2928-distribute-candies-among-children-i) |
