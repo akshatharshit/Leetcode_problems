@@ -24,7 +24,8 @@ class Solution {
             }
             int e=nums[i];
             if(s==e){
-                ans.add((new StringBuilder()).append(s).toString());
+                // ans.add((new StringBuilder()).append(s).toString());
+                ans.add(String.valueOf(s));
             }else{
                 ans.add(s+ "->" +e);
             }
