@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/akshatharshit/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0213-house-robber-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0213-house-robber-ii) |
+| [0228-summary-ranges](https://github.com/akshatharshit/Leetcode_problems/tree/master/0228-summary-ranges) |
 | [0403-frog-jump](https://github.com/akshatharshit/Leetcode_problems/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/akshatharshit/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
