@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0213-house-robber-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0228-summary-ranges](https://github.com/akshatharshit/Leetcode_problems/tree/master/0228-summary-ranges) |
+| [0260-single-number-iii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0260-single-number-iii) |
 | [0403-frog-jump](https://github.com/akshatharshit/Leetcode_problems/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/akshatharshit/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0260-single-number-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshatharshit/Leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/akshatharshit/Leetcode_problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/akshatharshit/Leetcode_problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
