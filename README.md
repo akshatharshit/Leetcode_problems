@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/akshatharshit/Leetcode_problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/akshatharshit/Leetcode_problems/tree/master/0041-first-missing-positive) |
+| [0389-find-the-difference](https://github.com/akshatharshit/Leetcode_problems/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/akshatharshit/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshatharshit/Leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/akshatharshit/Leetcode_problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0115-distinct-subsequences](https://github.com/akshatharshit/Leetcode_problems/tree/master/0115-distinct-subsequences) |
+| [0389-find-the-difference](https://github.com/akshatharshit/Leetcode_problems/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/akshatharshit/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0606-construct-string-from-binary-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0771-jewels-and-stones](https://github.com/akshatharshit/Leetcode_problems/tree/master/0771-jewels-and-stones) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/akshatharshit/Leetcode_problems/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/akshatharshit/Leetcode_problems/tree/master/2126-destroying-asteroids) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0260-single-number-iii) |
+| [0389-find-the-difference](https://github.com/akshatharshit/Leetcode_problems/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshatharshit/Leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/akshatharshit/Leetcode_problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshatharshit/Leetcode_problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
