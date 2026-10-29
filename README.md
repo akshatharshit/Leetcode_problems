@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/akshatharshit/Leetcode_problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/akshatharshit/Leetcode_problems/tree/master/2126-destroying-asteroids) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/akshatharshit/Leetcode_problems/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2418-sort-the-people](https://github.com/akshatharshit/Leetcode_problems/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/akshatharshit/Leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/akshatharshit/Leetcode_problems/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshatharshit/Leetcode_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshatharshit/Leetcode_problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/akshatharshit/Leetcode_problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2351-first-letter-to-appear-twice](https://github.com/akshatharshit/Leetcode_problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/akshatharshit/Leetcode_problems/tree/master/2418-sort-the-people) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshatharshit/Leetcode_problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akshatharshit/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akshatharshit/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/akshatharshit/Leetcode_problems/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2351-first-letter-to-appear-twice](https://github.com/akshatharshit/Leetcode_problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2409-count-days-spent-together](https://github.com/akshatharshit/Leetcode_problems/tree/master/2409-count-days-spent-together) |
+| [2418-sort-the-people](https://github.com/akshatharshit/Leetcode_problems/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/akshatharshit/Leetcode_problems/tree/master/2942-find-words-containing-character) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akshatharshit/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/akshatharshit/Leetcode_problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/akshatharshit/Leetcode_problems/tree/master/2126-destroying-asteroids) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/akshatharshit/Leetcode_problems/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2418-sort-the-people](https://github.com/akshatharshit/Leetcode_problems/tree/master/2418-sort-the-people) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshatharshit/Leetcode_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Game Theory
 |  |
