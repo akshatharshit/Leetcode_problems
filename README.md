@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshatharshit/Leetcode_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshatharshit/Leetcode_problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/akshatharshit/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/akshatharshit/Leetcode_problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3693-climbing-stairs-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/3693-climbing-stairs-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-merge-bsts-to-create-single-bst](https://github.com/akshatharshit/Leetcode_problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2351-first-letter-to-appear-twice](https://github.com/akshatharshit/Leetcode_problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshatharshit/Leetcode_problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/akshatharshit/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akshatharshit/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
