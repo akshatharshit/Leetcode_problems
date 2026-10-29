@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/akshatharshit/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/akshatharshit/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshatharshit/Leetcode_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0137-single-number-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0137-single-number-ii) |
 | [0213-house-robber-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0228-summary-ranges](https://github.com/akshatharshit/Leetcode_problems/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0260-single-number-iii) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0260-single-number-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshatharshit/Leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/akshatharshit/Leetcode_problems/tree/master/2351-first-letter-to-appear-twice) |
