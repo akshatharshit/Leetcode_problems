@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/akshatharshit/Leetcode_problems/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2418-sort-the-people](https://github.com/akshatharshit/Leetcode_problems/tree/master/2418-sort-the-people) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/akshatharshit/Leetcode_problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/akshatharshit/Leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/akshatharshit/Leetcode_problems/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshatharshit/Leetcode_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/akshatharshit/Leetcode_problems/tree/master/2126-destroying-asteroids) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/akshatharshit/Leetcode_problems/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2418-sort-the-people](https://github.com/akshatharshit/Leetcode_problems/tree/master/2418-sort-the-people) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/akshatharshit/Leetcode_problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshatharshit/Leetcode_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Game Theory
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshatharshit/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/akshatharshit/Leetcode_problems/tree/master/0064-minimum-path-sum) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/akshatharshit/Leetcode_problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Knapsack Problem
 |  |
 | ------- |
