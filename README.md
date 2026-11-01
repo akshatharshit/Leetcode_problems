@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/akshatharshit/Leetcode_problems/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2418-sort-the-people](https://github.com/akshatharshit/Leetcode_problems/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/akshatharshit/Leetcode_problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/akshatharshit/Leetcode_problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/akshatharshit/Leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/akshatharshit/Leetcode_problems/tree/master/2942-find-words-containing-character) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/akshatharshit/Leetcode_problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/akshatharshit/Leetcode_problems/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/akshatharshit/Leetcode_problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshatharshit/Leetcode_problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akshatharshit/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akshatharshit/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/akshatharshit/Leetcode_problems/tree/master/2126-destroying-asteroids) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/akshatharshit/Leetcode_problems/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2418-sort-the-people](https://github.com/akshatharshit/Leetcode_problems/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/akshatharshit/Leetcode_problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/akshatharshit/Leetcode_problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshatharshit/Leetcode_problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Game Theory
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/akshatharshit/Leetcode_problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/akshatharshit/Leetcode_problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
