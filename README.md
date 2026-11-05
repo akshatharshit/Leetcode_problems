@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/akshatharshit/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/akshatharshit/Leetcode_problems/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/akshatharshit/Leetcode_problems/tree/master/0258-add-digits) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshatharshit/Leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/akshatharshit/Leetcode_problems/tree/master/1360-number-of-days-between-two-dates) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshatharshit/Leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/akshatharshit/Leetcode_problems/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/akshatharshit/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [2211-count-collisions-on-a-road](https://github.com/akshatharshit/Leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -385,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/akshatharshit/Leetcode_problems/tree/master/0856-score-of-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/akshatharshit/Leetcode_problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
