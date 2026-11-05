@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/akshatharshit/Leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshatharshit/Leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/akshatharshit/Leetcode_problems/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/akshatharshit/Leetcode_problems/tree/master/2104-sum-of-subarray-ranges) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-number-of-days-between-two-dates](https://github.com/akshatharshit/Leetcode_problems/tree/master/1360-number-of-days-between-two-dates) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/akshatharshit/Leetcode_problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1927-sum-game](https://github.com/akshatharshit/Leetcode_problems/tree/master/1927-sum-game) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/akshatharshit/Leetcode_problems/tree/master/2211-count-collisions-on-a-road) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/akshatharshit/Leetcode_problems/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2351-first-letter-to-appear-twice](https://github.com/akshatharshit/Leetcode_problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/akshatharshit/Leetcode_problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/akshatharshit/Leetcode_problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
