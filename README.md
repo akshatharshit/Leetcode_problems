@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2418-sort-the-people](https://github.com/akshatharshit/Leetcode_problems/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/akshatharshit/Leetcode_problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/akshatharshit/Leetcode_problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/akshatharshit/Leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/akshatharshit/Leetcode_problems/tree/master/2942-find-words-containing-character) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/akshatharshit/Leetcode_problems/tree/master/1927-sum-game) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/akshatharshit/Leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2409-count-days-spent-together](https://github.com/akshatharshit/Leetcode_problems/tree/master/2409-count-days-spent-together) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2928-distribute-candies-among-children-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/2928-distribute-candies-among-children-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshatharshit/Leetcode_problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
