@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshatharshit/Leetcode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/akshatharshit/Leetcode_problems/tree/master/1360-number-of-days-between-two-dates) |
 | [1927-sum-game](https://github.com/akshatharshit/Leetcode_problems/tree/master/1927-sum-game) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/akshatharshit/Leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2409-count-days-spent-together](https://github.com/akshatharshit/Leetcode_problems/tree/master/2409-count-days-spent-together) |
 | [2928-distribute-candies-among-children-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/2928-distribute-candies-among-children-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshatharshit/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/akshatharshit/Leetcode_problems/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/akshatharshit/Leetcode_problems/tree/master/2126-destroying-asteroids) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/akshatharshit/Leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/akshatharshit/Leetcode_problems/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/akshatharshit/Leetcode_problems/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akshatharshit/Leetcode_problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/akshatharshit/Leetcode_problems/tree/master/2126-destroying-asteroids) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/akshatharshit/Leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/akshatharshit/Leetcode_problems/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2418-sort-the-people](https://github.com/akshatharshit/Leetcode_problems/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/akshatharshit/Leetcode_problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
