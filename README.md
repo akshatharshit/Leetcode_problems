@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/akshatharshit/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/akshatharshit/Leetcode_problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/akshatharshit/Leetcode_problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshatharshit/Leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/akshatharshit/Leetcode_problems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/akshatharshit/Leetcode_problems/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akshatharshit/Leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/akshatharshit/Leetcode_problems/tree/master/2126-destroying-asteroids) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/akshatharshit/Leetcode_problems/tree/master/2171-removing-minimum-number-of-magic-beans) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/akshatharshit/Leetcode_problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/akshatharshit/Leetcode_problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/akshatharshit/Leetcode_problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
